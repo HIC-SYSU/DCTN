@@ -7,7 +7,7 @@ This is a release of the paper： A Deformable Constraint Transport Network for 
 
 * [10/23 2023] The code is open-sourced
 * [10/30 2023] These files are updated
-* [10/31 2023] The code is also updated simultaneously in https://github.com/HIC-SYSU and https://github.com/HICL-SYSU/DCTN.git.
+* [10/31 2023] The code can be available at https://github.com/HIC-SYSU and https://github.com/HICL-SYSU/DCTN.git.
 
 ## Requirement
 
@@ -37,8 +37,8 @@ These images depicts some results included in the DCTN papers.
 
 * Some visualization results of the proposed network under different aortic cases.
   
-![image](https://github.com/HICL-SYSU/DCTN/blob/main/IMG/3D.png)
+![image](https://github.com/HIC/DCTN/blob/main/IMG/3D.png)
 
 * Some quantitative measurement analysis of the proposed network under different aortic cases.
 
-![image](https://github.com/HICL-SYSU/DCTN/blob/main/IMG/B-A.png)
+![image](https://github.com/HIC/DCTN/blob/main/IMG/B-A.png)
