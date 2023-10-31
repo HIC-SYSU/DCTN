@@ -471,6 +471,8 @@ class Decoder(nn.Module):
 """ 
 Guider
 """
+# If you do not need CPR images, you can decouple the guider module
+
 # get centerline
 def get_centerline(image_path):
 
