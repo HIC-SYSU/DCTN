@@ -37,8 +37,8 @@ These images depicts some results included in the DCTN papers.
 
 * Some visualization results of the proposed network under different aortic cases.
   
-![image](https://github.com/HIC/DCTN/blob/main/IMG/3D.png)
+![image](https://github.com/HIC-SYSU/DCTN/tree/main/IMG/3D.png)
 
 * Some quantitative measurement analysis of the proposed network under different aortic cases.
 
-![image](https://github.com/HIC/DCTN/blob/main/IMG/B-A.png)
+![image](https://github.com/HIC-SYSU/DCTN/tree/main/IMG/B-A.png)
